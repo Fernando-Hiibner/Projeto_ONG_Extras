@@ -1,0 +1,21 @@
+Projeto está no github.
+Back:
+https://github.com/Fernando-Hiibner/Projeto-ONG-Back
+Tenta executar o setup.bat
+se não der pip (ou pip3 caso seja o seu) install -r requirements.txt
+rode o server.py
+
+Front:
+https://github.com/Fernando-Hiibner/Projeto-ONG-Front
+npm install
+npm run serve
+roda no localhost:8080
+
+Funcionalidades entregues - Criar usuario (Ong e voluntario), logar e mudar senha
+
+Integrantes:
+Pedro Joaquim dos Santos Britto RA: 604038
+João Francisco de Almeida Gavirato Araújo RA: 607010
+Thomaz Medeiros de Queiroz RA: 601012
+Heinrik Sussumu Ivasaki RA: 604429
+Fernando Hiibner Pinoti Affonso RA: 608599
